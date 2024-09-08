@@ -1,0 +1,14 @@
+{
+  "transactions": [
+    {
+      "id": "9fa4",
+      "name": "Teste",
+      "amount": 100000
+    },
+    {
+      "id": "2826",
+      "name": "TESTE",
+      "amount": -10
+    }
+  ]
+}
